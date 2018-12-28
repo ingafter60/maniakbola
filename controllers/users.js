@@ -8,7 +8,7 @@ module.exports = function(_){
         },
         
         indexPage: function(req, res){
-            return res.render('index', {title: 'Footballkk | Login'});
+            return res.render('index', {title: 'Testing'});
         }
     }    
         
